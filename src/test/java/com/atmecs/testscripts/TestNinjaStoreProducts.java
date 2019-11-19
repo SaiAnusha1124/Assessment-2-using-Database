@@ -19,7 +19,7 @@ import com.atmecs.validation.VerifyProducts;
 
 public class TestNinjaStoreProducts extends TestBase {
 	SqlConnection database;
-	String firstproduct, firstquantity, secondproduct, secondquantity, nagative,ninjastore;
+	String firstproduct, firstquantity, secondproduct, secondquantity, nagative, ninjastore;
 	/*
 	 * In this class,validating home page,selecting one product in products list
 	 */
@@ -40,7 +40,7 @@ public class TestNinjaStoreProducts extends TestBase {
 	}
 
 	@Test
-	public void selectingFirstProduct() {
+	public void selectingProducts() {
 		database = new SqlConnection();
 		// locators are reading through LOCATOR_FILE
 		properties = ReadLocatorsFile.loadProperty(ConstantsFilePaths.LOCATOR_FILE);
@@ -48,14 +48,12 @@ public class TestNinjaStoreProducts extends TestBase {
 		properties1 = ReadLocatorsFile.loadProperty(ConstantsFilePaths.TESTDATA_FILE);
 
 		VerifyProducts.verifyingHomePage();
-		ExtentReport.reportLog("verifyingHomePage", "failed");
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-bttn-search"));
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-click-bttn-search"),database.getData("firstproduct", "ninjastore"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-search"));
 		log.info("Selected Iphone Product");
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-iphone"));
 		VerifyProducts.verifyingFirstProduct();
-		ExtentReport.reportLog("verifyingFirstProduct", "failed");
 		driver.findElement(By.xpath(properties.getProperty("loc-sendkeys-quantity1"))).clear();
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-sendkeys-quantity1"),database.getData("firstquantity", "ninjastore"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-addcart1"));
@@ -68,7 +66,6 @@ public class TestNinjaStoreProducts extends TestBase {
 		log.info("Selected MacBook Air Product");
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-macbookair"));
 		VerifyProducts.verifyingSecondProduct();
-		ExtentReport.reportLog("verifyingSecondProduct", "failed");
 		driver.findElement(By.xpath(properties.getProperty("loc-sendkeys-quantity2"))).clear();
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-sendkeys-quantity2"),database.getData("secondquantity", "ninjastore"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-addcart2"));
@@ -79,13 +76,12 @@ public class TestNinjaStoreProducts extends TestBase {
 		VerifyProducts.verifyingCartList();
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-removeproduct"));
 		VerifyProducts.afterUpdateGrandTotal();
-		ExtentReport.reportLog("afterUpdateGrandTotal", "failed");
 		log.info("Sucessfulyy selected and validated both iphone and macbook air products");
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-bttn-search"));
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-click-bttn-search"),database.getData("nagative", "ninjastore"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-search"));
 		log.info("Selected Chairs as Negative Product");
 		VerifyProducts.verifyingNegativeCase();
-		ExtentReport.reportLog("verifyingNegativeCase", "failed");
+		ExtentReport.reportLog("selectingProducts", "failed");
 	}
 }

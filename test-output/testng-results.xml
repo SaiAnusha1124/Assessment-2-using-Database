@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-11-15T11:33:13Z" name="Suite" finished-at="2019-11-15T11:34:12Z" duration-ms="58775">
+  <suite started-at="2019-11-19T09:00:52Z" name="Suite" finished-at="2019-11-19T09:01:48Z" duration-ms="55521">
     <groups>
     </groups>
-    <test started-at="2019-11-15T11:33:13Z" name="Test" finished-at="2019-11-15T11:34:12Z" duration-ms="58775">
+    <test started-at="2019-11-19T09:00:52Z" name="Test" finished-at="2019-11-19T09:01:48Z" duration-ms="55521">
       <class name="com.atmecs.testscripts.TestNinjaStoreProducts">
-        <test-method is-config="true" signature="launchingUrl()[pri:0, instance:com.atmecs.testscripts.TestNinjaStoreProducts@6b927fb]" started-at="2019-11-15T11:33:43Z" name="launchingUrl" finished-at="2019-11-15T11:33:46Z" duration-ms="3666" status="PASS">
+        <test-method is-config="true" signature="launchingUrl()[pri:0, instance:com.atmecs.testscripts.TestNinjaStoreProducts@79924b]" started-at="2019-11-19T09:01:20Z" name="launchingUrl" finished-at="2019-11-19T09:01:23Z" duration-ms="3191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchingUrl -->
-        <test-method signature="selectingFirstProduct()[pri:0, instance:com.atmecs.testscripts.TestNinjaStoreProducts@6b927fb]" started-at="2019-11-15T11:33:46Z" name="selectingFirstProduct" finished-at="2019-11-15T11:34:11Z" duration-ms="24539" status="PASS">
+        <test-method signature="selectingProducts()[pri:0, instance:com.atmecs.testscripts.TestNinjaStoreProducts@79924b]" started-at="2019-11-19T09:01:23Z" name="selectingProducts" finished-at="2019-11-19T09:01:47Z" duration-ms="23834" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- selectingFirstProduct -->
+        </test-method> <!-- selectingProducts -->
       </class> <!-- com.atmecs.testscripts.TestNinjaStoreProducts -->
       <class name="com.atmecs.testscripts.TestHeatClinicProduct">
-        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@a514af7]" started-at="2019-11-15T11:33:13Z" name="initializeBrowser" finished-at="2019-11-15T11:33:15Z" duration-ms="2570" status="PASS">
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@4fb0f2b9]" started-at="2019-11-19T09:00:52Z" name="initializeBrowser" finished-at="2019-11-19T09:00:55Z" duration-ms="2729" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeBrowser -->
-        <test-method is-config="true" signature="launchingUrl()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@a514af7]" started-at="2019-11-15T11:33:15Z" name="launchingUrl" finished-at="2019-11-15T11:33:21Z" duration-ms="5953" status="PASS">
+        <test-method is-config="true" signature="launchingUrl()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@4fb0f2b9]" started-at="2019-11-19T09:00:55Z" name="launchingUrl" finished-at="2019-11-19T09:01:01Z" duration-ms="5905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchingUrl -->
-        <test-method signature="testingHomePage()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@a514af7]" started-at="2019-11-15T11:33:21Z" name="testingHomePage" finished-at="2019-11-15T11:33:43Z" duration-ms="21443" status="PASS">
+        <test-method signature="selectingProduct()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@4fb0f2b9]" started-at="2019-11-19T09:01:01Z" name="selectingProduct" finished-at="2019-11-19T09:01:20Z" duration-ms="19175" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testingHomePage -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@a514af7]" started-at="2019-11-15T11:34:11Z" name="closeBrowser" finished-at="2019-11-15T11:34:12Z" duration-ms="559" status="PASS">
+        </test-method> <!-- selectingProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@4fb0f2b9]" started-at="2019-11-19T09:01:47Z" name="closeBrowser" finished-at="2019-11-19T09:01:48Z" duration-ms="626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeExtent()[pri:0, instance:com.atmecs.testscripts.TestHeatClinicProduct@4fb0f2b9]" started-at="2019-11-19T09:01:48Z" name="closeExtent" finished-at="2019-11-19T09:01:49Z" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeExtent -->
       </class> <!-- com.atmecs.testscripts.TestHeatClinicProduct -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

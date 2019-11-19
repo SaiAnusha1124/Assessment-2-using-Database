@@ -44,12 +44,11 @@ public class TestHeatClinicProduct extends TestBase {
 	}
 
 	@Test
-	public void testingHomePage() {
+	public void selectingProduct() {
 		database = new SqlConnection();
 		// locators are reading through LOCATOR_FILE
 		properties = ReadLocatorsFile.loadProperty(ConstantsFilePaths.LOCATOR_FILE);
 		VerifyShirtItem.testingHomePageTabs();
-		ExtentReport.reportLog("testingHomePage", "failed");
 		element = driver.findElement(By.xpath(properties.getProperty("loc-click-mens")));
 		Actions action = new Actions(driver);
 		action.moveToElement(element).build().perform();
@@ -64,12 +63,11 @@ public class TestHeatClinicProduct extends TestBase {
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-cart"));
 		log.info("Product added into cart");
 		VerifyShirtItem.validatingProduct();
-		ExtentReport.reportLog("validatingProduct", "failed");
 		driver.findElement(By.xpath(properties.getProperty("loc-sendkey-quantity"))).clear();
 		sendkeys.sendKeys(driver, LocatorType.XPATH, properties.getProperty("loc-sendkey-quantity"),database.getData("productQuantity", "ProjectData"));
 		click.clickElement(driver, LocatorType.XPATH, properties.getProperty("loc-click-update"));
 		log.info("Successfully updated the quantity");
 		VerifyShirtItem.validatingAfterUpdate();
-		ExtentReport.reportLog("validatingAfterUpdate", "failed");
+		ExtentReport.reportLog("selectingProduct", "failed");
 	}
 }

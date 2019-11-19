@@ -102,12 +102,12 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.atmecs.testscripts.TestNinjaStoreProducts" class="method navigator-link" hash-for-method="selectingFirstProduct">selectingFirstProduct</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.atmecs.testscripts.TestHeatClinicProduct" class="method navigator-link" hash-for-method="selectingProduct">selectingProduct</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="com.atmecs.testscripts.TestHeatClinicProduct" class="method navigator-link" hash-for-method="testingHomePage">testingHomePage</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="com.atmecs.testscripts.TestNinjaStoreProducts" class="method navigator-link" hash-for-method="selectingProducts">selectingProducts</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -130,9 +130,9 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="testingHomePage">
-                  </a> <!-- testingHomePage -->
-                  <span class="method-name">testingHomePage</span>
+                  <a name="selectingProduct">
+                  </a> <!-- selectingProduct -->
+                  <span class="method-name">selectingProduct</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -145,9 +145,9 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="selectingFirstProduct">
-                  </a> <!-- selectingFirstProduct -->
-                  <span class="method-name">selectingFirstProduct</span>
+                  <a name="selectingProducts">
+                  </a> <!-- selectingProducts -->
+                  <span class="method-name">selectingProducts</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -207,18 +207,18 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'selectingFirstProduct')
+data.setCell(0, 1, 'selectingProducts')
 data.setCell(0, 2, 'com.atmecs.testscripts.TestNinjaStoreProducts')
-data.setCell(0, 3, 24539);
+data.setCell(0, 3, 23834);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'testingHomePage')
+data.setCell(1, 1, 'selectingProduct')
 data.setCell(1, 2, 'com.atmecs.testscripts.TestHeatClinicProduct')
-data.setCell(1, 3, 21443);
+data.setCell(1, 3, 19175);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 45 seconds</span>
+              <span class="suite-total-time">Total running time: 43 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -233,12 +233,14 @@ return data;
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">2 ignored methods</span>
+            <span class="header-content">3 ignored methods</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="ignored-class-div">
               <span class="ignored-class-name">com.atmecs.testscripts.TestNinjaStoreProducts</span>
               <div class="ignored-methods-div">
+                <span class="ignored-method-name">closeExtent</span>
+                <br/>
                 <span class="ignored-method-name">initializeBrowser</span>
                 <br/>
                 <span class="ignored-method-name">closeBrowser</span>
@@ -260,30 +262,34 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
                 <span class="method-name">launchingUrl</span>
-                <span class="method-start">2583 ms</span>
+                <span class="method-start">2744 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">testingHomePage</span>
-                <span class="method-start">8552 ms</span>
+                <span class="method-name">selectingProduct</span>
+                <span class="method-start">8664 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.atmecs.testscripts.TestNinjaStoreProducts</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">launchingUrl</span>
-                <span class="method-start">30003 ms</span>
+                <span class="method-start">27855 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">selectingFirstProduct</span>
-                <span class="method-start">33669 ms</span>
+                <span class="method-name">selectingProducts</span>
+                <span class="method-start">31046 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.atmecs.testscripts.TestHeatClinicProduct</div> <!-- chronological-class-name -->
               <div class="configuration-test after">
                 <span class="method-name">closeBrowser</span>
-                <span class="method-start">58212 ms</span>
+                <span class="method-start">54880 ms</span>
               </div> <!-- configuration-test after -->
+              <div class="configuration-suite after">
+                <span class="method-name">closeExtent</span>
+                <span class="method-start">55553 ms</span>
+              </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

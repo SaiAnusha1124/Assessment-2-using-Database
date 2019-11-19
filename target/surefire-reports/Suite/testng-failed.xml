@@ -5,15 +5,17 @@
     <classes>
       <class name="com.atmecs.testscripts.TestHeatClinicProduct">
         <methods>
+          <include name="selectingProduct"/>
+          <include name="closeExtent"/>
           <include name="initializeBrowser"/>
           <include name="closeBrowser"/>
-          <include name="testingHomePage"/>
           <include name="launchingUrl"/>
         </methods>
       </class> <!-- com.atmecs.testscripts.TestHeatClinicProduct -->
       <class name="com.atmecs.testscripts.TestNinjaStoreProducts">
         <methods>
-          <include name="selectingFirstProduct"/>
+          <include name="selectingProducts"/>
+          <include name="closeExtent"/>
           <include name="initializeBrowser"/>
           <include name="closeBrowser"/>
           <include name="launchingUrl"/>

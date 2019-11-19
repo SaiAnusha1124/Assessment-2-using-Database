@@ -22,7 +22,8 @@ public class SqlConnection {
 			System.out.println(" driver loading problem");
 		}
 		try {
-			connection = DriverManager.getConnection("jdbc:sqlserver://ATMECSINLT-083\\SQLEXPRESS;database=Assessment2;integratedSecurity=true");
+			connection = DriverManager.getConnection(
+					"jdbc:sqlserver://ATMECSINLT-083\\SQLEXPRESS;database=Assessment2;integratedSecurity=true");
 			System.out.println("connection established");
 		} catch (Exception d) {
 			System.out.println("connection problem");
@@ -49,4 +50,3 @@ public class SqlConnection {
 		return databaseValues;
 	}
 }
-

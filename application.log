@@ -3165,3 +3165,341 @@
 2019-11-18 10:32:02,476  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
 2019-11-18 10:32:04,878  INFO [main] LogReports:25 - Selected Chairs as Negative Product
 2019-11-18 10:32:05,125  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-18 12:54:19,372  INFO [main] LogReports:25 - IE is Started
+2019-11-18 12:54:26,189  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 12:54:26,189  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 12:54:28,415  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-18 12:54:30,195  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-18 12:54:31,831  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-18 12:54:33,280  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 12:54:34,786  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 12:54:34,786  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-18 12:54:36,765  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-18 12:54:39,074  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-18 12:54:41,485  INFO [main] LogReports:25 - Product added into cart
+2019-11-18 12:54:41,744  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 12:54:41,980  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-18 12:54:42,184  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-18 12:54:42,376  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-18 12:54:42,576  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 12:54:42,811  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 12:54:42,811  INFO [main] LogReports:25 - Validated Product Details
+2019-11-18 12:54:44,143  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-18 12:54:44,385  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-18 12:54:44,385  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-18 12:54:48,582  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-18 12:54:48,582  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-18 12:54:48,582  INFO [main] LogReports:25 - ******************
+2019-11-18 12:54:50,925  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-18 12:54:54,490  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 12:54:54,715  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-18 12:54:54,939  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-18 12:54:55,195  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 12:54:56,666  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 12:54:56,670  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-18 12:54:59,570  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-18 12:55:01,561  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 12:55:01,774  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-18 12:55:01,990  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-18 12:55:02,198  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 12:55:03,568  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 12:55:03,572  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-18 12:55:06,482  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-18 12:55:06,722  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-18 12:55:06,986  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-18 12:55:09,104  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-18 12:55:09,108  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-18 12:55:11,371  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-18 12:55:11,593  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-18 15:12:25,380  INFO [main] LogReports:25 - IE is Started
+2019-11-18 15:12:31,876  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 15:12:31,877  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 15:12:33,651  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-18 15:12:35,337  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-18 15:12:36,841  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-18 15:12:38,195  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 15:12:39,385  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 15:12:39,386  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-18 15:12:41,052  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-18 15:12:43,253  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-18 15:12:45,243  INFO [main] LogReports:25 - Product added into cart
+2019-11-18 15:12:45,434  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 15:12:45,624  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-18 15:12:45,802  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-18 15:12:45,980  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-18 15:12:46,163  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 15:12:46,342  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 15:12:46,342  INFO [main] LogReports:25 - Validated Product Details
+2019-11-18 15:12:47,641  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-18 15:12:47,807  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-18 15:12:47,807  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-18 15:12:51,334  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-18 15:12:51,335  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-18 15:12:51,335  INFO [main] LogReports:25 - ******************
+2019-11-18 15:12:53,500  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-18 15:12:56,598  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 15:12:56,775  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-18 15:12:56,992  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-18 15:12:57,193  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 15:12:58,413  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 15:12:58,414  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-18 15:13:01,189  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-18 15:13:03,068  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 15:13:03,281  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-18 15:13:03,470  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-18 15:13:03,655  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 15:13:04,873  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 15:13:04,874  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-18 15:13:07,491  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-18 15:13:07,671  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-18 15:13:07,846  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-18 15:13:09,779  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-18 15:13:09,781  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-18 15:13:11,760  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-18 15:13:11,936  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-18 18:54:55,599  INFO [main] LogReports:25 - IE is Started
+2019-11-18 18:55:02,555  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 18:55:02,556  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 18:55:04,386  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-18 18:55:06,061  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-18 18:55:07,487  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-18 18:55:08,827  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 18:55:10,009  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 18:55:10,009  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-18 18:55:11,703  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-18 18:55:13,944  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-18 18:55:16,059  INFO [main] LogReports:25 - Product added into cart
+2019-11-18 18:55:16,320  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 18:55:16,507  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-18 18:55:16,741  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-18 18:55:16,955  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-18 18:55:17,161  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 18:55:17,374  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 18:55:17,374  INFO [main] LogReports:25 - Validated Product Details
+2019-11-18 18:55:18,798  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-18 18:55:18,964  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-18 18:55:18,965  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-18 18:55:22,404  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-18 18:55:22,404  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-18 18:55:22,404  INFO [main] LogReports:25 - ******************
+2019-11-18 18:55:24,548  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-18 18:55:28,119  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 18:55:28,299  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-18 18:55:28,486  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-18 18:55:28,671  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 18:55:29,866  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 18:55:29,867  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-18 18:55:32,592  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-18 18:55:34,454  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 18:55:34,644  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-18 18:55:34,842  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-18 18:55:35,024  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 18:55:36,207  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 18:55:36,207  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-18 18:55:38,749  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-18 18:55:38,944  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-18 18:55:39,135  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-18 18:55:41,117  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-18 18:55:41,119  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-18 18:55:43,082  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-18 18:55:43,282  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-18 18:59:59,628  INFO [main] LogReports:25 - IE is Started
+2019-11-18 19:00:01,848  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 19:00:01,849  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 19:00:03,608  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-18 19:00:05,190  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-18 19:00:06,659  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-18 19:00:07,951  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 19:00:09,400  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-18 19:00:09,400  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-18 19:00:10,986  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-18 19:00:13,135  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-18 19:00:14,979  INFO [main] LogReports:25 - Product added into cart
+2019-11-18 19:00:15,222  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-18 19:00:15,415  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-18 19:00:15,603  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-18 19:00:15,806  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-18 19:00:15,988  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 19:00:16,170  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-18 19:00:16,170  INFO [main] LogReports:25 - Validated Product Details
+2019-11-18 19:00:17,412  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-18 19:00:17,587  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-18 19:00:17,589  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-18 19:00:21,231  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-18 19:00:21,231  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-18 19:00:21,232  INFO [main] LogReports:25 - ******************
+2019-11-18 19:00:23,325  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-18 19:00:26,603  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 19:00:26,795  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-18 19:00:26,994  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-18 19:00:27,191  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 19:00:28,369  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 19:00:28,370  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-18 19:00:31,150  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-18 19:00:33,122  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 19:00:33,299  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-18 19:00:33,493  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-18 19:00:33,684  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-18 19:00:35,060  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 19:00:35,061  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-18 19:00:37,680  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-18 19:00:37,871  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-18 19:00:38,113  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-18 19:00:40,083  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-18 19:00:40,084  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-18 19:00:42,224  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-18 19:00:42,480  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-18 19:13:54,416  INFO [main] LogReports:25 - IE is Started
+2019-11-18 19:14:31,454  INFO [main] LogReports:25 - IE is Started
+2019-11-18 19:15:49,408  INFO [main] LogReports:25 - Chrome is Started
+2019-11-18 19:36:31,165  INFO [main] LogReports:25 - Chrome is Started
+2019-11-18 19:36:49,968  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 19:36:49,972  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 19:38:24,781  INFO [main] LogReports:25 - Chrome is Started
+2019-11-18 19:38:57,927  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 19:38:57,928  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 19:41:01,849  INFO [main] LogReports:25 - Chrome is Started
+2019-11-18 19:41:22,469  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-18 19:41:22,470  INFO [main] LogReports:25 - Validated Home Page
+2019-11-18 19:41:54,129  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-18 19:42:06,312  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-18 19:42:18,685  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-18 19:43:33,164  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-18 19:43:33,164  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-18 19:43:33,165  INFO [main] LogReports:25 - ******************
+2019-11-18 19:43:36,271  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-18 19:44:08,850  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-18 19:44:08,913  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-18 19:44:08,980  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-18 19:44:09,051  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-18 19:44:09,436  INFO [main] LogReports:25 - Added product to cart
+2019-11-18 19:44:09,437  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-18 19:44:11,671  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-19 11:17:37,073  INFO [main] LogReports:25 - Chrome is Started
+2019-11-19 11:17:47,601  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-19 11:17:47,601  INFO [main] LogReports:25 - Validated Home Page
+2019-11-19 11:17:48,907  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-19 11:17:49,758  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-19 11:17:50,777  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-19 11:17:51,695  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 11:17:52,645  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 11:17:52,645  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-19 11:17:53,680  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-19 11:17:54,184  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-19 11:17:57,996  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-19 11:17:57,996  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-19 11:17:57,996  INFO [main] LogReports:25 - ******************
+2019-11-19 11:17:59,160  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-19 11:18:05,300  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 11:18:05,364  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-19 11:18:05,428  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-19 11:18:05,495  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 11:18:05,934  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 11:18:05,934  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-19 11:18:07,556  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-19 11:18:09,761  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 11:18:09,823  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-19 11:18:09,912  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-19 11:18:09,993  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 11:18:10,429  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 11:18:10,429  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-19 11:18:11,773  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-19 11:18:11,828  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-19 11:18:11,914  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-19 11:18:12,928  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-19 11:18:12,929  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-19 11:18:13,884  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-19 11:18:13,952  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-19 11:19:02,275  INFO [main] LogReports:25 - IE is Started
+2019-11-19 11:19:22,164  INFO [main] LogReports:25 - IE is Started
+2019-11-19 11:19:24,508  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-19 11:19:24,508  INFO [main] LogReports:25 - Validated Home Page
+2019-11-19 11:19:26,362  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-19 11:19:27,925  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-19 11:19:29,476  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-19 11:19:30,900  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 11:19:32,226  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 11:19:32,226  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-19 11:19:33,785  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-19 11:19:36,024  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-19 11:19:38,497  INFO [main] LogReports:25 - Product added into cart
+2019-11-19 11:19:39,200  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-19 11:19:39,517  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-19 11:19:39,794  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-19 11:19:40,060  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-19 11:19:40,311  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-19 11:19:40,582  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-19 11:19:40,583  INFO [main] LogReports:25 - Validated Product Details
+2019-11-19 11:19:41,968  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-19 11:19:42,196  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-19 11:19:42,196  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-19 11:19:46,105  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-19 11:19:46,105  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-19 11:19:46,105  INFO [main] LogReports:25 - ******************
+2019-11-19 11:19:48,247  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-19 11:19:51,579  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 11:19:51,777  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-19 11:19:51,979  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-19 11:19:52,157  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 11:19:53,398  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 11:19:53,398  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-19 11:19:56,100  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-19 11:19:57,922  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 11:19:58,103  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-19 11:19:58,283  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-19 11:19:58,464  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 11:19:59,731  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 11:19:59,732  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-19 11:20:02,212  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-19 11:20:02,415  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-19 11:20:02,608  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-19 11:20:04,581  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-19 11:20:04,581  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-19 11:20:06,541  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-19 11:20:06,745  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
+2019-11-19 14:30:55,422  INFO [main] LogReports:25 - IE is Started
+2019-11-19 14:31:02,215  INFO [main] LogReports:25 - Passed : Verifying Home Page :  Actual data : The Heat Clinic Home Expected data : The Heat Clinic Home
+2019-11-19 14:31:02,215  INFO [main] LogReports:25 - Validated Home Page
+2019-11-19 14:31:04,109  INFO [main] LogReports:25 - Passed : Verifying Hot Sauce tab :  Actual data : HOT SAUCES Expected data : HOT SAUCES
+2019-11-19 14:31:05,737  INFO [main] LogReports:25 - Passed : Verifying Merchandise tab :  Actual data : MERCHANDISE Expected data : MERCHANDISE
+2019-11-19 14:31:07,282  INFO [main] LogReports:25 - Passed : Verifying Clearance tab :  Actual data : CLEARANCE Expected data : CLEARANCE
+2019-11-19 14:31:08,801  INFO [main] LogReports:25 - Passed : Verifying New to Hot Sauce tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 14:31:10,287  INFO [main] LogReports:25 - Passed : Verifying FAQ tab :  Actual data : This is an example of a content-managed page. Expected data : This is an example of a content-managed page.
+2019-11-19 14:31:10,303  INFO [main] LogReports:25 - Successfully Validated all tabs in a Home Page
+2019-11-19 14:31:11,858  INFO [main] LogReports:25 - Clicked Mens Products
+2019-11-19 14:31:13,994  INFO [main] LogReports:25 - Selected Shirt,Color and size
+2019-11-19 14:31:17,770  INFO [main] LogReports:25 - Product added into cart
+2019-11-19 14:31:17,979  INFO [main] LogReports:25 - Passed : Verifying item Name :  Actual data : Hawt Like a Habanero Shirt (Men's) Expected data : Hawt Like a Habanero Shirt (Men's)
+2019-11-19 14:31:18,188  INFO [main] LogReports:25 - Passed : Verifying Shirt Size :  Actual data : Shirt Size: M Expected data : Shirt Size: M
+2019-11-19 14:31:18,406  INFO [main] LogReports:25 - Passed : Verifying Customer Name :  Actual data : Personalized Name: Anu Expected data : Personalized Name: Anu
+2019-11-19 14:31:18,607  INFO [main] LogReports:25 - Passed : Verifying Shirt Color :  Actual data : Shirt Color: Red Expected data : Shirt Color: Red
+2019-11-19 14:31:18,795  INFO [main] LogReports:25 - Passed : Verifying Shirt Price :  Actual data : $14.99 Expected data : $14.99
+2019-11-19 14:31:18,994  INFO [main] LogReports:25 - Passed : Verifying Total Amount :  Actual data : $14.99 Expected data : $14.99
+2019-11-19 14:31:18,994  INFO [main] LogReports:25 - Validated Product Details
+2019-11-19 14:31:20,203  INFO [main] LogReports:25 - Successfully updated the quantity
+2019-11-19 14:31:20,407  INFO [main] LogReports:25 - Passed : Verifying Total Amount after updating :  Actual data : $29.98 Expected data : $29.98
+2019-11-19 14:31:20,407  INFO [main] LogReports:25 - Completed Selecting Shirt and validating all details
+2019-11-19 14:31:24,113  INFO [main] LogReports:25 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-19 14:31:24,113  INFO [main] LogReports:25 - Successfully Validated Home Page
+2019-11-19 14:31:24,113  INFO [main] LogReports:25 - ******************
+2019-11-19 14:31:26,317  INFO [main] LogReports:25 - Selected Iphone Product
+2019-11-19 14:31:29,773  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 14:31:29,988  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-19 14:31:30,200  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-19 14:31:30,385  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 14:31:31,724  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 14:31:31,724  INFO [main] LogReports:25 - Successfully selected and validate for first product
+2019-11-19 14:31:35,109  INFO [main] LogReports:25 - Selected MacBook Air Product
+2019-11-19 14:31:37,126  INFO [main] LogReports:25 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-19 14:31:37,424  INFO [main] LogReports:25 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-19 14:31:37,684  INFO [main] LogReports:25 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-19 14:31:37,923  INFO [main] LogReports:25 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 14:31:39,754  INFO [main] LogReports:25 - Added product to cart
+2019-11-19 14:31:39,754  INFO [main] LogReports:25 - Successfully selected and validate for second product
+2019-11-19 14:31:42,717  INFO [main] LogReports:25 - Passed : Verifying cart product 1 :  Actual data : iPhone Expected data : iPhone
+2019-11-19 14:31:42,898  INFO [main] LogReports:25 - Passed : Verifying cart product 2 :  Actual data : MacBook Air Expected data : MacBook Air
+2019-11-19 14:31:43,086  INFO [main] LogReports:25 - Passed : Verifying cart grand total before removing product :  Actual data : $3,852.40 Expected data : $3,852.40
+2019-11-19 14:31:45,043  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : $246.40 Expected data : $246.40
+2019-11-19 14:31:45,043  INFO [main] LogReports:25 - Sucessfulyy selected and validated both iphone and macbook air products
+2019-11-19 14:31:47,386  INFO [main] LogReports:25 - Selected Chairs as Negative Product
+2019-11-19 14:31:47,573  INFO [main] LogReports:25 - Passed : Verifying after removing grand total :  Actual data : Your shopping cart is empty! Expected data : Your shopping cart is empty!
